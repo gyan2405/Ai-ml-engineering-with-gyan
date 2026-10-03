@@ -1,0 +1,9 @@
+{
+  "name": "AI Journey 200 - Bachon ke liye AI",
+  "short_name": "AI Journey 200",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#14123b",
+  "theme_color": "#14123b",
+  "description": "200-day AI, ML and Engineering learning journey."
+}
